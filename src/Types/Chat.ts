@@ -11,7 +11,7 @@ export type WAPrivacyValue = 'all' | 'contacts' | 'contact_blacklist' | 'none'
 
 export type WAPrivacyOnlineValue = 'all' | 'match_last_seen'
 
-export type WAPrivacyGroupAddValue = 'all' | 'contacts' | 'contact_blacklist'
+export type WAPrivacyGroupAddValue = 'all' | 'contacts' | 'contact_blacklist' | 'none'
 
 export type WAReadReceiptsValue = 'all' | 'none'
 
